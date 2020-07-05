@@ -1,0 +1,13 @@
+D:\Users\Карина\source\repos\UniversalElectronicCard\UniversalElectronicCard\bin\Debug\netcoreapp3.1\UniversalElectronicCard.exe
+D:\Users\Карина\source\repos\UniversalElectronicCard\UniversalElectronicCard\bin\Debug\netcoreapp3.1\UniversalElectronicCard.deps.json
+D:\Users\Карина\source\repos\UniversalElectronicCard\UniversalElectronicCard\bin\Debug\netcoreapp3.1\UniversalElectronicCard.runtimeconfig.json
+D:\Users\Карина\source\repos\UniversalElectronicCard\UniversalElectronicCard\bin\Debug\netcoreapp3.1\UniversalElectronicCard.runtimeconfig.dev.json
+D:\Users\Карина\source\repos\UniversalElectronicCard\UniversalElectronicCard\bin\Debug\netcoreapp3.1\UniversalElectronicCard.dll
+D:\Users\Карина\source\repos\UniversalElectronicCard\UniversalElectronicCard\bin\Debug\netcoreapp3.1\UniversalElectronicCard.pdb
+D:\Users\Карина\source\repos\UniversalElectronicCard\UniversalElectronicCard\obj\Debug\netcoreapp3.1\UniversalElectronicCard.csprojAssemblyReference.cache
+D:\Users\Карина\source\repos\UniversalElectronicCard\UniversalElectronicCard\obj\Debug\netcoreapp3.1\UniversalElectronicCard.csproj.CoreCompileInputs.cache
+D:\Users\Карина\source\repos\UniversalElectronicCard\UniversalElectronicCard\obj\Debug\netcoreapp3.1\UniversalElectronicCard.AssemblyInfoInputs.cache
+D:\Users\Карина\source\repos\UniversalElectronicCard\UniversalElectronicCard\obj\Debug\netcoreapp3.1\UniversalElectronicCard.AssemblyInfo.cs
+D:\Users\Карина\source\repos\UniversalElectronicCard\UniversalElectronicCard\obj\Debug\netcoreapp3.1\UniversalElectronicCard.dll
+D:\Users\Карина\source\repos\UniversalElectronicCard\UniversalElectronicCard\obj\Debug\netcoreapp3.1\UniversalElectronicCard.pdb
+D:\Users\Карина\source\repos\UniversalElectronicCard\UniversalElectronicCard\obj\Debug\netcoreapp3.1\UniversalElectronicCard.genruntimeconfig.cache
